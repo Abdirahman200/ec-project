@@ -1,0 +1,20 @@
+.block_product{
+    width: 45%;
+    height: 20%;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.137);
+}
+
+.product_image{
+    width: 50%;
+    height: 40%;
+    object-fit: cover;
+}
+
+.home_container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px 170px 0px 170px;
+}
